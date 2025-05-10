@@ -10,7 +10,7 @@ A simple News Aggregator Website built with HTML, CSS, and JavaScript. This proj
 #### How to Use:
 
 Download or clone the repository
-git clone https://github.com/darhrmsarm03/Web-dev-mini-projects.git
+git clone https://github.com/darhrmsarm03/Webdev-projects.git
 
 Go to the directory
 
