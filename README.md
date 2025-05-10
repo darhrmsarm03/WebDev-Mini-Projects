@@ -13,12 +13,12 @@
 
 
   
-# ADD ANY WEB DEVELOPMENT MINI PROJECT !
+## ADD ANY WEB DEVELOPMENT MINI PROJECT !
 
 </div>
 <br>
 
-## HOW TO CONTRIBUTE ? 👷 
+### HOW TO CONTRIBUTE ? 👷 
 
 **1.** Fork [this](https://github.com/darhrmsarm03/WebDev-mini-projects) repository.
 
