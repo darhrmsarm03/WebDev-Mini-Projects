@@ -39,3 +39,25 @@ h1 {
   border: none;
   font-size: 1em;
 }
+
+#search-btn {
+  padding: 10px 20px;
+  border: none;
+  background-color: #0056b3;
+  color: white;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+#search-btn:hover {
+  background-color: #004080;
+}
+
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
