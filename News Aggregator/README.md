@@ -21,7 +21,7 @@ Go to the directory
 
 #### Notes:
 
-- The free NewsAPI key has rate limits; for production or heavy use, consider upgrading or hosting your own news data.
+- The free NewsAPI key has rate limits; for production or heavy use, consider upgrading or hosting your news data.
 - You can extend this by adding pagination, saving favorites, or more filters.
 - Styling can be further customized for a better look.
 
