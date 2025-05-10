@@ -20,7 +20,7 @@
 
 ### HOW TO CONTRIBUTE? 👷 
 
-**1.** Fork [this](https://github.com/darhrmsarm03/WebDev-mini-projects) repository.
+**1.** Fork [this](https://github.com/darhrmsarm03/WebDev-projects) repository.
 
 **2.** Clone the forked repository.
 
