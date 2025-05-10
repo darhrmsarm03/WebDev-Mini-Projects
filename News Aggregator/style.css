@@ -20,3 +20,22 @@ header {
   flex-direction: column;
   align-items: center;
 }
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.search-container {
+  display: flex;
+  margin-bottom: 10px;
+  width: 80%;
+  max-width: 600px;
+}
+
+#search-input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 4px 0 0 4px;
+  border: none;
+  font-size: 1em;
+}
