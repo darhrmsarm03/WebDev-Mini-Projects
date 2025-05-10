@@ -11,6 +11,7 @@ A simple News Aggregator Website built with HTML, CSS, and JavaScript. This proj
 
 Download or clone the repository
 git clone https://github.com/darhrmsarm03/Web-dev-mini-projects.git
+
 Go to the directory
 
 1. Save the files (index.html, styles.css, script.js) in the same folder.
