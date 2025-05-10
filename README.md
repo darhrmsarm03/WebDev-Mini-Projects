@@ -51,7 +51,7 @@ git checkout -b <your_branch_name>
 **7.** Add & Commit your changes.
 
 ```terminal
-  git add .
+  git add.
   git commit -m "<your_commit_message>"
 ```
 
@@ -63,5 +63,5 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax till we review your PR, you've made your contribution to the (https://github.com/darhrmsarm03/Webdev-mini-projects) project
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to the (https://github.com/darhrmsarm03/WebDev-mini-projects) project
  
