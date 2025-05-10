@@ -25,16 +25,16 @@
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/darhrmsarm03/WebDev-mini-projects 
+git clone https://github.com/darhrmsarm03/WebDev-projects 
 ```
 
 **3.** Navigate to the project directory.
 
 ```terminal
-cd WebDev-mini-projects
+cd WebDev-projects
 ```
 
-**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE webdev-mini-projects & Add your project files (eg: index.html,style.css, script.js) inside that folder
+**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE webdev-projects & Add your project files (eg: index.html,style.css, script.js) inside that folder
 <br>
 
 **5.**  Also, add a README file in your project folder which consists of a Description/screenshots about your project!
@@ -63,5 +63,5 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax till we review your PR, you've made your contribution to the (https://github.com/darhrmsarm03/WebDev-mini-projects) project
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to the (https://github.com/darhrmsarm03/WebDev-projects) project
  
