@@ -34,10 +34,10 @@ git clone https://github.com/darhrmsarm03/WebDev-mini-projects
 cd WebDev-mini-projects
 ```
 
-**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE webdev-mini-projects & Add your project files (eg: index.html ,style.css, script.js) inside that folder
+**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE webdev-mini-projects & Add your project files (eg: index.html,style.css, script.js) inside that folder
 <br>
 
-**5.**  Also Add a README file in your project folder which consists of Description/screenshots about your project !
+**5.**  Also, add a README file in your project folder which consists of a Description/screenshots about your project!
           
  
 <br>
@@ -65,20 +65,3 @@ git push -u origin <your_branch_name>
 
 **Congratulations!** Sit and relax till we review your PR, you've made your contribution to the (https://github.com/darhrmsarm03/Webdev-mini-projects) project
  
-## Project Maintainers 👷👷:
-
- 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/darhrmsarm03"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Samuel Obisesan</h4>
-<a href="https://www.linkedin.com/in/ayush-parikh332/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-
-</tr>
-</table>
-<br>
-
->## Happy Contribution ✨
-
-   
-   
